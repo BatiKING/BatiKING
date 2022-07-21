@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BatiKING
+- 👋 Hi, I’m Kamil Przygodzki
 - 👀 I’m interested in Tekken 
 - 🌱 I’m currently learning Python
 - 📫 How to reach me @Bati_KING Twitter
